@@ -1,5 +1,8 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+## About this Website
+
+This site is the assignment for Quiz 2 in the course QTM 350 taught by professor Danilo Freire.

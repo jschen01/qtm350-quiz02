@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: life-gdp.qmd
         text: Life Expectancy and GDP per Capita
       - href: life-population.qmd
