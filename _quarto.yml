@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs  # Directs output to the docs folder
+
+website:
+  title: "QTM_350_Quiz_2_Website"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: life-gdp.qmd
+        text: Life Expectancy and GDP per Capita
+      - href: life-population.qmd
+        text: Life Expectancy and Population
+      - href: country.qmd
+        text: Country Analysis
+
+format:
+  html:
+    theme: 
+      light: lumen
+      dark: solar
+    css: styles.css
+    toc: true

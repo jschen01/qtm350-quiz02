@@ -1,0 +1,13 @@
+---
+title: "QTM_350_Quiz_2_Website"
+---
+
+The **Gapminder dataset** has been generated using data from the Gapminder website, which focuses on gathering and sharing statistics and other information about social, economic and environmental development at local, national and global levels.
+
+## Website Pages
+
+- [Life Expectancy and GDP per Capita](life-gdp.qmd)  
+- [Life Expectancy vs. Population Analysis](life-population.qmd)  
+- [Country-Specific Trends in Life Expectancy, GDP, and Population](country.qmd)  
+
+To learn more about Quarto websites, visit <https://quarto.org/docs/websites>.
