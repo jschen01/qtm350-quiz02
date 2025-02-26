@@ -1,5 +1,6 @@
 ---
 title: "QTM_350_Quiz_2_Website"
+format: html
 ---
 
 The **Gapminder dataset** has been generated using data from the Gapminder website, which focuses on gathering and sharing statistics and other information about social, economic and environmental development at local, national and global levels.

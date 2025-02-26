@@ -75,5 +75,19 @@
     "title": "About",
     "section": "",
     "text": "This site is the assignment for Quiz 2 in the course QTM 350 taught by professor Danilo Freire."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "QTM_350_Quiz_2_Website",
+    "section": "",
+    "text": "The Gapminder dataset has been generated using data from the Gapminder website, which focuses on gathering and sharing statistics and other information about social, economic and environmental development at local, national and global levels."
+  },
+  {
+    "objectID": "index.html#website-pages",
+    "href": "index.html#website-pages",
+    "title": "QTM_350_Quiz_2_Website",
+    "section": "Website Pages",
+    "text": "Website Pages\n\nLife Expectancy and GDP per Capita\n\nLife Expectancy vs. Population Analysis\n\nCountry-Specific Trends in Life Expectancy, GDP, and Population\n\nTo learn more about Quarto websites, visit https://quarto.org/docs/websites."
   }
 ]
